@@ -1,0 +1,28 @@
+[
+      {"name": "Adam", "birth": "01.05.1980", "salary": 85000, "department": "Marketing", "role": "1"},
+      {"name": "Bob", "birth": "21.06.1977", "salary": 105000, "department": "R&D", "role": "1"},
+      {"name": "Aubrey", "birth": "09.01.1978", "salary": 127000, "department": "Sales", "role": "1"},
+      {"name": "Liam", "birth": "21.06.1987", "salary": 163000, "department": "Engineering", "role": "1"},
+
+      {"name": "Thomas", "birth": "01.05.1980", "salary": 40000, "department": "Engineering", "role": "2"},
+      {"name": "Erik", "birth": "17.11.1983", "salary": 40000, "department": "Engineering", "role": "2"},
+      {"name": "Sinclair", "birth": "21.06.1977", "salary": 50000, "department": "R&D", "role": "2"},
+      {"name": "Ulf", "birth": null, "salary": 150000, "department": "R&D", "role": "2"},
+
+      {"name": "Emil", "birth": "07.08.1993", "salary": 140000, "department": "Engineering", "role": "3"},
+      {"name": "Eduard", "birth": "22.10.1984", "salary": 90000, "department": "Engineering", "role": "3"},
+      {"name": "Rolf", "birth": "01.05.1980", "salary": 100000, "department": "R&D", "role": "3"},
+      {"name": "Ulf", "birth": "21.06.1977", "salary": 150000, "department": "R&D", "role": "3"},
+      {"name": "Dimi", "birth": "09.01.1978", "salary": 127000, "department": "Engineering", "role": "3"},
+      {"name": "Omri", "birth": "21.06.1987", "salary": 63000, "department": "Engineering", "role": "3"},
+      {"name": "Stanton", "birth": "09.01.1990", "salary": 80000, "department": "Sales", "role": "3"},
+      {"name": "Clint", "birth": "31.01.1999", "salary": 74000, "department": "Engineering", "role": "3"},
+      {"name": "Sam", "birth": "27.05.1981", "salary": 63000, "department": "Sales", "role": "3"},
+      {"name": "Sam", "birth": "27.05.1981", "salary": 63000, "department": "Marketing", "role": "3"},
+
+      {"name": "Sandra", "birth": "29.03.1998", "salary": 0, "department": "Marketing", "role": "4"},
+      {"name": "Venice", "birth": "11.07.1993", "salary": 0, "department": "R&D", "role": "4"},
+      {"name": "Stanton", "birth": "09.01.1990", "salary": 0, "department": "Sales", "role": "4"},
+      {"name": "Clint", "birth": "31.01.1999", "salary": 0, "department": "Engineering", "role": "4"},
+      {"name": "Vatican", "birth": "13.06.2000", "salary": 0, "department": "Engineering", "role": "4"}
+]
